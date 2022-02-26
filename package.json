@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-api-tutorial",
+  "name": "whatsapp-api-zdg",
   "version": "1.0.0",
   "description": "Whatsapp api by Adriel",
   "main": "app.js",
@@ -12,7 +12,7 @@
     "whatsapp-api",
     "node.js"
   ],
-  "author": "Pedro Herpert",
+  "author": "pedroherperto",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
